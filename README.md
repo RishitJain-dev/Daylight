@@ -8,7 +8,7 @@ An alarm clock with a TFT 2.25 inch screen and dial to act as not just a alarm c
 
    https://lapse.hackclub.com/timelapse/PNQWRp-xT5TE
    
- ## 1. Designing the PCB - 1 hour  30 minutes
+ ## 2. Designing the PCB - 1 hour  30 minutes
    Placed components, routed traces, filled a ground pour and exported STEP and GERBER for later use
 
   <img width="437" height="240" alt="Screenshot 2026-08-31 163907" src="https://github.com/user-attachments/assets/1e7582d1-cf44-4a84-bf86-b2100c68bb9a" />
@@ -19,3 +19,9 @@ An alarm clock with a TFT 2.25 inch screen and dial to act as not just a alarm c
 
    https://lapse.hackclub.com/timelapse/aowiD0g3GfD9
    
+## 3. Designing the CAD - 1 hour 30 minutes
+I used Onshape to design the CAD, splitting the casing into 2 pieces, top and bottom, all connected by nuts and bolts, and keycaps for the switches and a knob for the rotary encoder, and a small hole for the USB-C port
+
+<img width="775" height="903" alt="Screenshot 2026-09-05 174124" src="https://github.com/user-attachments/assets/fcf269ed-88b2-46fb-9ae9-9c44e846af57" />
+<img width="1197" height="793" alt="Screenshot 2026-09-05 173954" src="https://github.com/user-attachments/assets/f1d3c78b-25a9-4061-93ce-9b1b38445422" />
+<img width="1286" height="818" alt="Screenshot 2026-09-05 173905" src="https://github.com/user-attachments/assets/3dea216a-4f51-47c6-b6ad-46ffff2c0868" />
