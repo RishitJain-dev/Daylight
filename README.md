@@ -28,9 +28,16 @@ I used Onshape to design the CAD, splitting the casing into 2 pieces, top and bo
 
 # Bill of Materials
 2x Cherry MX Switches
+
 2x Keycaps any colour
+
 1x EC11 Rotary Encoder with switch
+
 1x Seeed XIAO RP2040
+
 4x M3 Nut and Bolt, 2cm, Low profile top
+
 4x M3 Spacers, 3mm diameter, 0.6cm, circular, non-threaded
+
 1 Case (2 printed parts)
+
